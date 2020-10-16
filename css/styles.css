@@ -50,3 +50,27 @@ p {
     font-size: 20pt;
     margin-left: 25%;
 }
+
+.resumelist li {
+    font-size: 18pt;
+}
+.all {
+    text-align: center;
+}
+
+.moen {
+    float: left;
+    padding-right: 12px;
+    border-radius: 12px;
+    
+}
+
+.all {
+    text-align: left;
+    list-style-position: inside;
+    margin-left: 25%;
+}
+
+.education {
+    font-size: 15pt;
+}
