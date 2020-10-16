@@ -32,11 +32,12 @@ p {
 .red {
     color: red;
 }
-ul .hobbies{
+.hobbies1 li{
     font-size: 30pt;
 }
-.col-7{
-    margin-left: auto;
+
+.col-6 p {
+    font-family: Arial Bold;
 }
 
 .box1 {
