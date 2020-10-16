@@ -1,6 +1,8 @@
 .jumbotron-fluid {
     background-color: rgb(218, 205, 189);
-    color: black;    
+    color: black;
+    font-family: 'Times New Roman'; 
+    text-align: center;   
 }
 
 body {
@@ -11,5 +13,13 @@ body {
 }
 .img-thumbnail {
     inline-size: 10cm;
+    padding: 1cm;
+    border-radius: 22px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     
+}
+.am {
+    text-align: center;
 }
