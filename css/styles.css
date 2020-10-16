@@ -20,6 +20,16 @@ body {
     margin-right: auto;
     
 }
-.am {
+
+.row{
     text-align: center;
+}
+p {
+    font-size: 30pt;
+}
+.red {
+    color: red;
+}
+ul .hobbies{
+    font-size: 30pt;
 }
