@@ -40,11 +40,12 @@ ul .hobbies{
 }
 
 .box1 {
-    width: 50%;
+    width: 53%;
     border: solid rgb(218, 205, 189);
     border-radius: 22px;
     background-color: papayawhip;
     margin-bottom: 10px;
     padding: 4px;
     font-size: 20pt;
+    margin-left: 25%;
 }
