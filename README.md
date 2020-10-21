@@ -15,6 +15,9 @@ _Open Locally_
 * Open terminal such as Visual Studio Code and use command git clone https://github.com/ebezjian/Portfolio.git in the directory you would like to clone this repository.
 * Or, click "Download Zip" and open the file on your machine 
 
+_Deployment Link_
+* To view the deployment please use : https://ebezjian.github.io/Portfolio/
+
 
 ## Known Bugs 
 _No known bugs at this time_ 
