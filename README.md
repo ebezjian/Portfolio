@@ -30,4 +30,4 @@ Contact me at ebezjian@gmail.com
 
 ### License 
 Copyright (c) 2020 Eleanor Lambert.
-This software is licensed udner the MIT license.
+This software is licensed under the MIT license.
